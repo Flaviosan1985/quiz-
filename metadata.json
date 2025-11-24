@@ -1,0 +1,5 @@
+{
+  "name": "IBGE Master Quiz",
+  "description": "Um aplicativo interativo de perguntas e respostas focado na preparação para o concurso do IBGE, utilizando IA para gerar questões infinitas e explicadas.",
+  "requestFramePermissions": []
+}
